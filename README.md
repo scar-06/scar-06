@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scar-06
 - 👀 I’m interested in AI and Data Science/Analytics
-- 🌱 I’m currently learning Python porgramming
+- 🌱 I’m currently building on my Data Science and Python skills
 - 💞️ I’m looking to collaborate on projects involving AI and Database Administration
 - 📫 Twitter/Instagram/Threads: @ozzy_nsa
 
