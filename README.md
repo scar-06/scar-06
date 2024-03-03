@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @scar-06
 - 👀 I’m interested in AI and Data Science/Analytics
 - 👀 I’m also interested in web app development
-- 🌱 I’m a Full Java Stack Software Engineer (Jakarta EE, ThymeLeaf, SpringBoot, React)
+- 🌱 I’m a Full Java Stack Software Engineer (Jakarta [J2EE], ThymeLeaf, SpringBoot, React)
 - 🌱 I’m also a Python programmer (Jupyter, numPy, Pandas, Scikit-learn)
 - 💞️ I’m looking to collaborate on projects involving AI, Database Administration, Android App Development
 - 📫 Twitter/Instagram/Threads: @ozzy_nsa
