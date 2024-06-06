@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Oscar Nwanze
+- 👋 Hi, I’m Oscar 
 - 👀 I’m interested in AI and Data Science/Analytics
 - 👀 I’m also interested in web/mobile app development
 - 🌱 I’m a Full Stack Software Engineer, utilising Java, Python and Node Stacks (Jakarta [J2EE], Spring/SpringBoot, Django, Next.js, React/React Native )
