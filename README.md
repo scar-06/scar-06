@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Oscar Nwanze
 - 👀 I’m interested in AI and Data Science/Analytics
 - 👀 I’m also interested in web/mobile app development
-- 🌱 I’m a Full Java Stack Software Engineer (Jakarta [J2EE], ThymeLeaf, SpringBoot, React/React Native )
-- 🌱 I’m also a Python programmer (Django, Jupyter, numPy, Pandas, Scikit-learn)
+- 🌱 I’m a Full Stack Software Engineer, utilising Java, Python and Node Stacks (Jakarta [J2EE], Spring/SpringBoot, Django, Next.js, React/React Native )
+- 🌱 I also dabble into Data Science ( Jupyter, numPy, Pandas, Scikit-learn, SQL, MongoDB, Azure)
 - 💞️ I’m looking to collaborate on projects involving AI, Database Administration, Web / Android App Development
 - 📫 Twitter/Instagram/Threads: @ozzy_nsa
 
